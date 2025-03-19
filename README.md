@@ -1,4 +1,4 @@
-### **README.md**
+
 
 # Amigo Secreto - Aplicación Web
 
@@ -18,7 +18,6 @@ El principal objetivo de esta aplicación es ofrecer una herramienta intuitiva y
 
 ### **Otros**
 
-- **Postman**: Herramienta utilizada para pruebas de la API.
 - **Git**: Control de versiones.
 
 ## 🧑‍🤝‍🧑 **Para Quién Está Diseñado**
